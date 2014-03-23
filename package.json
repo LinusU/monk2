@@ -1,0 +1,7 @@
+{
+  "name": "monk2",
+  "version": "0.1.0",
+  "dependencies": {
+    "mongodb": "git://github.com/mongodb/node-mongodb-native.git#b996df61548bd08c06324132d0ad2d81ff83f00c"
+  }
+}
